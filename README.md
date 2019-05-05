@@ -1,4 +1,4 @@
-# Writing Checks the Hard Way ![Jarid_Bredemeier](https://img.shields.io/badge/build-passing-green.svg?style=flat-plastic)
+# Writing Checks the Hard Way
 A simple programming challenge used to demonstrate my programming skills and problem-solving abilities using an Object Oriented approach with JavaScript (ECMAScript 6).
 
 ## Challenge Problem
